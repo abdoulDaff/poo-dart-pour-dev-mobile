@@ -103,7 +103,6 @@ testGeometricDesign() {
   geometricDesign.save("design1.json");
 }
 
-
 test1GeometricDesign() {
   GeometricDesign geometricDesign = GeometricDesign.fromFile("design1.json");
   geometricDesign.show();
