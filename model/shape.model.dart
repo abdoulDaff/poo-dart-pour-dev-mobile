@@ -1,4 +1,3 @@
-
 import 'point.model.dart';
 
 abstract class Shape {
