@@ -109,9 +109,9 @@ test1GeometricDesign() {
 }
 
 void main() {
-  // testPoint();
-  // testCircle();
-  // testRectangle();
-  // testGeometricDesign();
+  testPoint();
+  testCircle();
+  testRectangle();
+  testGeometricDesign();
   test1GeometricDesign();
 }
