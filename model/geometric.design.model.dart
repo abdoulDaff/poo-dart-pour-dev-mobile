@@ -58,6 +58,7 @@ class GeometricDesign {
         return Rectangle(p1: p1, p2: p2);
       }
     }).toList();
+
     shapes = shapesList;
   }
 }
